@@ -103,9 +103,8 @@ struct ItemListView: View {
                         
                     }
                 } // end of vstack
-                
             }
-            
+            .showTabBar()
         }
     }
 
